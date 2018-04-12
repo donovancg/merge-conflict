@@ -1,2 +1,2 @@
 var a = 50;
-var str = "Hello World";
+var str = "Hello Solar system";
